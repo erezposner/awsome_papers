@@ -3066,6 +3066,8 @@ input, select, textarea {
 
 		table.alt {
 			border-collapse: separate;
+			text-align: left;
+
 		}
 
 			table.alt tbody tr td {
