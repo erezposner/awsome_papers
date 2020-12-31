@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: ActiveStereoNet: The first deep learning solution for active stereo systems	</title>
-	<atom:link href="/2020/12/28/travel-tips/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/12/28/travel-tips/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 28 Dec 2020 17:49:25 +0000</lastBuildDate>
 	<sy:updatePeriod>

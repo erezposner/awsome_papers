@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Deep Video Portraits	</title>
-	<atom:link href="/2020/12/28/whats-on-my-desk/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/12/28/whats-on-my-desk/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 28 Dec 2020 17:49:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

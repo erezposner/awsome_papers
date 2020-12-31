@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: random paper 2020	</title>
-	<atom:link href="/2020/12/29/random-paper-2020/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/12/29/random-paper-2020/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 29 Dec 2020 16:55:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

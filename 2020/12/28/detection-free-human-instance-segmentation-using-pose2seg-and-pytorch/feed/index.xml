@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Detection Free Human Instance Segmentation using Pose2Seg and PyTorch	</title>
-	<atom:link href="/2020/12/28/detection-free-human-instance-segmentation-using-pose2seg-and-pytorch/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/12/28/detection-free-human-instance-segmentation-using-pose2seg-and-pytorch/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 28 Dec 2020 20:31:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
