@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/01/tr.png</url>
+	<title></title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>A single camera based floating virtual keyboard with improved touch detection</title>
 		<link>./../2020/12/31/a-single-camera-based-floating-virtual-keyboard-with-improved-touch-detection/index.html</link>

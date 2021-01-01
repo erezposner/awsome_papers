@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/01/tr.png</url>
+	<title>Blogs</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>How To Create Awesome Noise That Is Actually Real</title>
 		<link>./../../../2020/12/31/how-to-create-awesome-noise-that-is-actually-real/index.html</link>
